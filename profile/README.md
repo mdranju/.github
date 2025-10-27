@@ -1,6 +1,6 @@
 ## Hey there!🙂, I'm Muhammad Ranju.
 <!-- ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/988513123085701120/1736011115/1500x500) -->
-![I am GitHub Readme Generator's creator](./public/banner.jpg)
+<!--![I am GitHub Readme Generator's creator](./public/banner.jpg) -->
 
 ##### I'm a JavaScript Lover 😍
 
